@@ -6,3 +6,4 @@ class Hello
     }
 }
 '''
+Hello World
